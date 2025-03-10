@@ -24,6 +24,8 @@ Node.js 16+
 pip, virtualenv (recommended)
 
 Clone the Repository:
+git clone https://github.com/7ami/self-service-knowledge-base.git
+cd self-service-knowledge-base
 
 
 Backend Setup:
