@@ -4,7 +4,7 @@ import KnowledgeBaseSearch from "./KnowledgeBaseSearch";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bulma/css/bulma.css";
 
-// Styled wrapper
+
 const Wrapper = styled.div`
   background-color: #e3f2fd;
   padding: 20px;
@@ -16,7 +16,7 @@ const Wrapper = styled.div`
   justify-content: center;
 `;
 
-// Styled button
+
 const Button = styled.button`
   background-color: #007bff;
   color: white;

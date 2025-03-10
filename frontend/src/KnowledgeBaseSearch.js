@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import styled from "styled-components";
 
-// Styled component for UI styling
+
 const Container = styled.div`
   max-width: 600px;
   margin: 50px auto;
@@ -43,7 +43,7 @@ function KnowledgeBaseSearch() {
   const [response, setResponse] = useState("");
   const [error, setError] = useState("");
 
-  // Function to send the query to the Flask API
+
   const searchQuery = async () => {
     setError(""); // Reset error before searching
     setResponse(""); // Reset response

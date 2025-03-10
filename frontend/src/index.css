@@ -12,14 +12,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 
-/* Styling for Container */
+
 .container {
   max-width: 1200px;
   margin: auto;
   padding: 20px;
 }
 
-/* Button Styling */
 .btn-custom {
   background-color: #007bff;
   color: white;
@@ -33,7 +32,7 @@ code {
   background-color: #0056b3;
 }
 
-/* Styling for Cards */
+
 .card-custom {
   background: white;
   padding: 15px;
@@ -41,7 +40,7 @@ code {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
   .container {
     padding: 10px;
