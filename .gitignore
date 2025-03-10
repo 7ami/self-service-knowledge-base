@@ -1,0 +1,13 @@
+# Ignore Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Ignore Data & Model Files
+*.npy
+*.csv
+*.model
+*.txt
+
+# Ignore large model files
+saved_models/
+*.safetensors
+
